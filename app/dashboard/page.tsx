@@ -294,7 +294,7 @@ export default function DashboardPage() {
         device: "MacBook Air M2",
         issue: "Battery replacement",
         status: "in-progress",
-        date: "2024-01-14",
+        date: "2025-09-25",
         ecoPoints: 0,
       },
       { device: "Samsung Galaxy S23", issue: "Charging port", status: "completed", date: "2025-09-25", ecoPoints: 50 },
