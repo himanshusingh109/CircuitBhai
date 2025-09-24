@@ -276,10 +276,10 @@ export default function DashboardPage() {
   }, [isAuthenticated])
 
   const userStats = {
-    totalRepairs: userProfile?.total_repairs_completed || 12,
-    points: userProfile?.total_points || 2450,
-    ecoPoints: userProfile?.eco_points || 1850,
-    level: userProfile?.level || 3,
+    totalRepairs: userProfile?.total_repairs_completed || 0,
+    points: userProfile?.total_points || 0,
+    ecoPoints: userProfile?.eco_points || 0,
+    level: userProfile?.level || 0,
     nextLevelPoints: (userProfile?.level || 3) * 1000,
     badges: [
       { id: 1, name: "First Repair", icon: "🔧", earned: (userProfile?.total_repairs_completed || 0) >= 1 },
