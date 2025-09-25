@@ -82,11 +82,11 @@ export default function HomePage() {
                 </SheetTrigger>
                 <SheetContent side="right" className="w-[300px] sm:w-[400px]">
                   <div className="flex flex-col space-y-6 mt-6">
-                    <div className="flex items-center gap-3 pb-4 border-b border-border">
+                    <div className="flex items-center gap-3 pb-0 mb-0 border-b border-border">
                       <img
                         src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CircuitBhai%20png-JnoLSbsOUcbKHo4etgaInv0EGgE5qI.png"
                         alt="CircuitBhai Logo"
-                        className="w-16 h-16 object-contain bg-transparent"
+                        className="w-45 h-45 object-contain bg-transparent"
                       />
                     </div>
                     <nav className="flex flex-col space-y-4">
