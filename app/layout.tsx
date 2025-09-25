@@ -16,7 +16,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "CircuitBhai - Fix It, Don't Toss It",
+  title: "CircuitBhai - Fix Smarter. Live Greener.",
   description: "AI-powered device repair guidance to reduce e-waste and extend electronics life with CircuitBhai",
   generator: "v0.app",
 }
