@@ -1,6 +1,6 @@
 CircuitBhai 🌟
 
-Deployed link: https://circuitbhai.onrender.com
+Deployed link: https://circuitbhai-nrw8.onrender.com
 
 CircuitBhai is your friendly tech companion that empowers users to repair their devices themselves, connect with certified technicians, and contribute to a sustainable tech ecosystem.
 
